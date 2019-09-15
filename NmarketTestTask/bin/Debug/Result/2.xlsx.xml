@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHouse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>
+    <Name>Дом 1</Name>
+    <Flats>
+      <Flat>
+        <Number>9</Number>
+        <Price>5 962 790,40</Price>
+      </Flat>
+      <Flat>
+        <Number>5</Number>
+        <Price>5 813 905,50</Price>
+      </Flat>
+      <Flat>
+        <Number>1</Number>
+        <Price>5 782 173,60</Price>
+      </Flat>
+      <Flat>
+        <Number>10</Number>
+        <Price>3 711 405,60</Price>
+      </Flat>
+      <Flat>
+        <Number> 6</Number>
+        <Price>3 787 144,80</Price>
+      </Flat>
+      <Flat>
+        <Number>2</Number>
+        <Price>3 621 928,80</Price>
+      </Flat>
+      <Flat>
+        <Number>11</Number>
+        <Price>7 885 248,00</Price>
+      </Flat>
+      <Flat>
+        <Number>7</Number>
+        <Price>7 790 589,00</Price>
+      </Flat>
+      <Flat>
+        <Number>3</Number>
+        <Price>7 453 110,00</Price>
+      </Flat>
+      <Flat>
+        <Number>12</Number>
+        <Price>4 033 839,60</Price>
+      </Flat>
+      <Flat>
+        <Number>8</Number>
+        <Price>3 935 436,30</Price>
+      </Flat>
+      <Flat>
+        <Number>4</Number>
+        <Price>4 163 002,00</Price>
+      </Flat>
+    </Flats>
+  </House>
+  <House>
+    <Name>Дом 2</Name>
+    <Flats>
+      <Flat>
+        <Number>4</Number>
+        <Price>8 109 502,00</Price>
+      </Flat>
+      <Flat>
+        <Number>1</Number>
+        <Price>7 956 511,00</Price>
+      </Flat>
+      <Flat>
+        <Number>5</Number>
+        <Price>11 241 038,00</Price>
+      </Flat>
+      <Flat>
+        <Number>2</Number>
+        <Price>11 013 394,00</Price>
+      </Flat>
+      <Flat>
+        <Number>6</Number>
+        <Price>5 784 448,00</Price>
+      </Flat>
+      <Flat>
+        <Number>3</Number>
+        <Price>5 759 902,00</Price>
+      </Flat>
+    </Flats>
+  </House>
+</ArrayOfHouse>

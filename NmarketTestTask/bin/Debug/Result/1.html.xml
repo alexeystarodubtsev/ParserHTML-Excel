@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHouse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <House>
+    <Name>1</Name>
+    <Flats>
+      <Flat>
+        <Number>1</Number>
+        <Price>7 000 000</Price>
+      </Flat>
+      <Flat>
+        <Number>3</Number>
+        <Price>7 000 200</Price>
+      </Flat>
+    </Flats>
+  </House>
+  <House>
+    <Name>2</Name>
+    <Flats>
+      <Flat>
+        <Number>3</Number>
+        <Price>5 000 000</Price>
+      </Flat>
+      <Flat>
+        <Number>4</Number>
+        <Price>5 000 100</Price>
+      </Flat>
+      <Flat>
+        <Number>5</Number>
+        <Price>5 000 200</Price>
+      </Flat>
+    </Flats>
+  </House>
+</ArrayOfHouse>
